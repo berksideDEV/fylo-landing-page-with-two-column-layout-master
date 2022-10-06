@@ -7,3 +7,6 @@
 
 # Mobile
 ![Screen Shot 2022-10-06 at 16 06 16](https://user-images.githubusercontent.com/73247644/194320921-584015f9-56ee-488e-bca4-6febd031f276.png)
+
+# Link
+https://berksidedev.github.io/fylo-landing-page-with-two-column-layout-master/
